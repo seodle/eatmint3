@@ -8,6 +8,6 @@ Scrips and softwares can be used in the development of cognitive science experim
 
 ### Content
 
-##Enrolment web page
+## Enrolment web page
 
 **index.php**: 
