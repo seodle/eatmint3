@@ -4,7 +4,7 @@ This repository contains various scripts and softwares used in the concepton of 
 
 ## Purposes
 
-Scrips and softwares can be used in the development of cognitive science experiments. 
+Scripts and softwares can be used in the development of cognitive science experiments. 
 
 ### Content
 
