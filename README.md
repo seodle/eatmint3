@@ -10,4 +10,4 @@ Scripts and softwares can be used in the development of cognitive science experi
 
 ## Enrolment web page
 
-**index.php**: 
+**index.php**
